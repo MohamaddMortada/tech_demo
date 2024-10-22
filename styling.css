@@ -1,9 +1,7 @@
-div {
-    border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
-tab {
-    border:5px
-    width="90%"
+
+td{
+    padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
